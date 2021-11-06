@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb761540-73fc-41d0-88ff-b0039891fceb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/Knight patrol/.idea/Knight_patrol.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/max_subsequence_sum/.idea/max_subsequence_sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/package_problem/.idea/package_problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/.idea/aline_invasion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/game_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/images/alien.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/images/ship.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aline_invasion/ship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../machine_learning/iris/.idea/kNN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../machine_learning/iris/knn_id_number/.idea/knn_id_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/plane_war.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enemy_airplane.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/again.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bomb_supply.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bullet1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bullet2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bullet_supply.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy1_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy1_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy1_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy1_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2_hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_n1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_n2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/life.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/me1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/me2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/me_destroy_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/me_destroy_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/me_destroy_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/me_destroy_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pause_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pause_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/planewar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resume_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resume_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_plane.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_lessons-master/python_student/.idea/python_student.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_lessons-master/supermarket_system/.idea/supermarket_system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/chessboard_coverage/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithm/chessboard_coverage/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/chessboard_coverage/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithm/chessboard_coverage/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/iris/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../machine_learning/iris/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine_learning/iris/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../machine_learning/iris/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20PLL4EyFx9GNpoQ6VNTnWHWZyH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="plane_war" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="plane_war" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plane_war.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb761540-73fc-41d0-88ff-b0039891fceb" name="Changes" comment="" />
+      <created>1635941216774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635941216774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
